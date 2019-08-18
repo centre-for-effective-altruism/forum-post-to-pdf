@@ -1,0 +1,4 @@
+{
+    "cluster": "ea-forum",
+    "task": "ForumPostToPDFWorkerTask"
+}

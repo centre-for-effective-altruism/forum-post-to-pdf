@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "async": "^3.1.0",
+    "aws-sdk": "^2.512.0",
+    "promise-retry": "^1.1.1"
+  },
+  "name": "ecs-worker-launcher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}

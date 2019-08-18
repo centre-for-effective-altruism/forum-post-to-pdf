@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "ecs-worker-launcher-executor",
+    "name": "ecs-worker-launcher",
+    "region": "us-east-1"
+  }
+}
